@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a data analyst and software engineer with a passion for creating data-driven solutions and efficient software applications. With a strong foundation in data analysis and software engineering principles, I leverage my skills to extract insights from data and build impactful software. I have experience working with JavaScript, React, Next.js, MySQL, Mongodb, git and others. I am committed to continuous learning and collaboration, looking to expand my knowledge and skill set.
+Hello, I’m a learner and a dreamer, aspiring to cross the ocean of possibilities.
+
+I am a Software Quality Assurance (SQA) engineer and software developer with a passion for building robust, reliable, and efficient software applications. With a strong foundation in Quality Assurance practices, I specialize in testing, debugging, and ensuring the quality of software systems. I have hands-on experience with tools and frameworks like Selenium, Postman & JMeter.
+
+In addition to my expertise in SQA, I am skilled in JavaScript, React, Next.js, MySQL, MongoDB, Git, and other technologies, enabling me to develop scalable and user-friendly applications. While I also have experience in data analysis, my primary focus remains on delivering high-quality software solutions.
+
+I am dedicated to continuous learning and collaboration, always striving to expand my knowledge and refine my craft.
 
 
 ## 🌐 Socials:
